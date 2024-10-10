@@ -1,0 +1,44 @@
+[
+    {
+        "src": "/led_img/decor01.png",
+        "name": "DL01",
+        "brand": "brand01",
+        "info": "Decoration-10w",
+        "price": 19.99
+    },
+    {
+        "src": "/led_img/decor02.png",
+        "name": "DL02",
+        "brand": "brand02",
+        "info": "Decoration-15w",
+        "price": 29.99
+    },
+    {
+        "src": "/led_img/decor03.png",
+        "name": "DL03",
+        "brand": "brand03",
+        "info": "Decoration-20w",
+        "price": 39.99
+    },
+    {
+        "src": "/led_img/decor04.png",
+        "name": "DL04",
+        "brand": "brand04",
+        "info": "Decoration-25w",
+        "price": 49.99
+    },
+    {
+        "src": "/led_img/decor05.png",
+        "name": "DL05",
+        "brand": "brand05",
+        "info": "Decoration-30w",
+        "price": 59.99
+    },
+    {
+        "src": "/led_img/decor06.png",
+        "name": "DL06",
+        "brand": "brand06",
+        "info": "Decoration-35w",
+        "price": 69.99
+    }
+]

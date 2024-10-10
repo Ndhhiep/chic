@@ -1,0 +1,24 @@
+.download-box{
+    width: 60px;
+    height: 60px;
+    border: 3px solid black;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    background-color: white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.download-icon{
+    font-size: 32px;
+}
+
+.top-icon{
+    font-size: 32px;
+}
+

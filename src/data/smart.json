@@ -1,0 +1,44 @@
+[
+    {
+        "src": "/led_img/smart01.png",
+        "name": "SL01",
+        "brand": "brand01",
+        "info": "Smart-10w",
+        "price": 59.99
+    },
+    {
+        "src": "/led_img/smart02.png",
+        "name": "SL02",
+        "brand": "brand02",
+        "info": "Smart-15w",
+        "price": 69.99
+    },
+    {
+        "src": "/led_img/smart03.png",
+        "name": "SL03",
+        "brand": "brand03",
+        "info": "Smart-20w",
+        "price": 79.99
+    },
+    {
+        "src": "/led_img/smart04.png",
+        "name": "SL04",
+        "brand": "brand04",
+        "info": "Smart-25w",
+        "price": 89.99
+    },
+    {
+        "src": "/led_img/smart05.png",
+        "name": "SL05",
+        "brand": "brand05",
+        "info": "Smart-30w",
+        "price": 99.99
+    },
+    {
+        "src": "/led_img/smart06.png",
+        "name": "SL06",
+        "brand": "brand06",
+        "info": "Smart-35w",
+        "price": 109.99
+    }
+]

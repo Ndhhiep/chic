@@ -1,0 +1,163 @@
+{
+    "Ceiling Lights": [
+      {
+        "src": "ceiling_img/ceiling01.jpg",
+        "name": "CL01",
+        "brand": "brand01",
+        "info": "20cm-20w",
+        "price": 120.99
+      },
+      {
+        "src": "ceiling_img/ceiling02.jpg",
+        "name": "CL02",
+        "brand": "brand02",
+        "info": "25cm-25w",
+        "price": 130.99
+      },
+      {
+        "src": "ceiling_img/ceiling03.jpg",
+        "name": "CL03",
+        "brand": "brand03",
+        "info": "30cm-30w",
+        "price": 140.99
+      }
+    ],
+    "Wall Lights": [
+      {
+        "src": "wall_img/wall01.jpg",
+        "name": "WL01",
+        "brand": "brand01",
+        "info": "15cm-15w",
+        "price": 45.99
+      },
+      {
+        "src": "wall_img/wall02.jpg",
+        "name": "WL02",
+        "brand": "brand02",
+        "info": "20cm-20w",
+        "price": 55.99
+      },
+      {
+        "src": "wall_img/wall03.jpg",
+        "name": "WL03",
+        "brand": "brand03",
+        "info": "25cm-25w",
+        "price": 65.99
+      }
+    ],
+    "Lamps": [
+      {
+        "src": "lamp_img/lamp01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "lamp_img/lamp02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "lamp_img/lamp03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      }
+    ],
+    "Outdoor Lights": [
+      {
+        "src": "outdoor_img/outdoor01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "outdoor_img/outdoor02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "outdoor_img/outdoor03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      }
+    ],
+    "Fans": [
+      {
+        "src": "fan_img/fan01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "fan_img/fan02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "fan_img/fan03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      }
+    ],
+    "Home Accents": [
+      {
+        "src": "accent_img/accent01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "accent_img/accent02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "accent_img/accent03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      }
+    ],
+    "LED Lights": [
+      {
+        "src": "led_img/led01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "led_img/led02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "led_img/led03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      }
+    ]
+  }

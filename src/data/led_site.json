@@ -1,0 +1,14 @@
+{
+    "Smart Leds":
+    {
+        "url": "/products/led/smart"
+    },
+    "Spot Leds":
+    {
+        "url": "/products/led/spot"
+    },
+    "Decoration Leds":
+    {
+        "url": "/products/led/decor"
+    }
+}

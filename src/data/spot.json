@@ -1,0 +1,44 @@
+[
+    {
+        "src": "/led_img/spot01.png",
+        "name": "SP01",
+        "brand": "brand01",
+        "info": "Spot-10w",
+        "price": 39.99
+    },
+    {
+        "src": "/led_img/spot02.png",
+        "name": "SP02",
+        "brand": "brand02",
+        "info": "Spot-15w",
+        "price": 49.99
+    },
+    {
+        "src": "/led_img/spot03.png",
+        "name": "SP03",
+        "brand": "brand03",
+        "info": "Spot-20w",
+        "price": 59.99
+    },
+    {
+        "src": "/led_img/spot04.png",
+        "name": "SP04",
+        "brand": "brand04",
+        "info": "Spot-25w",
+        "price": 69.99
+    },
+    {
+        "src": "/led_img/spot05.png",
+        "name": "SP05",
+        "brand": "brand05",
+        "info": "Spot-30w",
+        "price": 79.99
+    },
+    {
+        "src": "/led_img/spot06.png",
+        "name": "SP06",
+        "brand": "brand06",
+        "info": "Spot-35w",
+        "price": 89.99
+    }
+]

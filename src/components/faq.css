@@ -1,0 +1,96 @@
+.faq{
+    
+    margin: 0 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.faq-intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.faq-intro h1{
+    margin: 0;
+    font-weight: bold;
+}
+
+.faq-intro-text{
+    width: 60%;
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.faq-content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.faq-content-object{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.faq-content-object h1{
+    font-weight: bold;
+}
+
+
+.faq-content-qa{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.faq-content-qa-a{
+    display: flex;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    font-size: 16px;
+    align-items: center;
+}
+
+.faq-content-qa-a p{
+    margin: 0;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.faq-content-qa-q{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.faq-content-qa-q strong{
+    margin: 0;
+    padding-left: 20px;
+}
+
+.faq-qIcon{
+    font-size: 40px;
+    color: red;
+}
+
+.faq-aIcon{
+    font-size: 30px;
+    color: green;
+}
+
+.centered-hr {
+    width: 50%;
+    margin: 50px auto;
+    border: 2px solid #000;
+}

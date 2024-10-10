@@ -1,0 +1,379 @@
+.header {
+  height: 150px;
+  background-color: #3b122b;
+  color: #f8dca5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.logo-box {
+  width: 100px;
+  height: 100px;
+  border: 3px solid #f8dca5;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+
+.logo-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.navbar {
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-btn {
+  width: 100px;
+  height: 50px;
+  border: none;
+  border-radius: 10px;
+  background-color: #3b122b;
+  color: #f8dca5;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-btn:hover {
+  color: white;
+}
+
+.drop-icon {
+  font-size: 22px;
+  color: #f8dca5;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.drop-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  background-color: #3b122b;
+  border-radius: 10px 10px 0 10px;
+}
+
+.dropdown-content a {
+  color: #f8dca5;
+  padding: 12px 0;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  margin: 10px 10px;
+}
+
+.dropdown-content a:hover {
+  color: white;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu-content {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background-color: #3b122b;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  border-radius: 0 10px 10px 10px;
+  top: -5px;
+}
+
+.dropdown-submenu:hover .dropdown-submenu-content {
+  display: block;
+}
+
+.drop-sub-icon {
+  margin-left: 5px;
+}
+.user-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-box .user-icon {
+  font-size: 30px;
+}
+
+.user-box p {
+  margin: 0 0 20px 5px;
+  font-size: 22px;
+}
+
+.LED-opt {
+  display: flex;
+}
+
+.header-mobile {
+  display: none;
+}
+
+.nav-icon-mobile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.close-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+
+.material-icons {
+  font-size: 36px;
+}
+
+@media (max-width: 576px) {
+  .header {
+    display: none;
+  }
+
+  .header-mobile {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: #3b122b;
+    color: #f8dca5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+
+  .logo-box-mobile {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #f8dca5;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .logo-box-mobile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .user-box-mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .user-icon {
+    font-size: 24px;
+  }
+
+  .user-num {
+    font-size: 20px;
+  }
+
+  .navbar-mobile {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: -100%;
+    color: #f8dca5;
+    background-color: #3b122b;
+    z-index: 1000;
+    animation: slideIn 0.75s forwards;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: auto;
+    padding-bottom: 20px;
+    animation: slideInFromLeft 0.75s forwards;
+  }
+
+  .navbar-mobile .slide-out {
+    animation: slideOutFromRight 0.75s forwards;
+  }
+}
+  
+
+@keyframes slideInFromLeft {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(100%);
+    }
+  }
+  
+  @keyframes slideOutFromRight {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+
+.navbar-mobile-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  width: 100%;
+  height: 100px;
+  background-color: #3b122b;
+  color: #f8dca5;
+}
+
+.hr-mobile {
+  width: 50%;
+  height: 5px;
+  background-color: #f8dca5;
+  border: 1px solid #f8dca5;
+  border-radius: 30px;
+}
+
+.nav-link-mobile {
+  margin-top: 50px;
+}
+
+.nav-link-mobile:hover {
+  color: white;
+}
+
+.nav-btn-mobile {
+  border: none;
+  background-color: #3b122b;
+  color: #f8dca5;
+  font-size: 18px;
+}
+
+.nav-btn-mobile:hover {
+  color: white;
+}
+
+#product-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #f8dca5;
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+.product-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  margin-top: 20px;
+  opacity: 0;
+  max-height: 0;
+  animation: slideUp 0.5s forwards; 
+}
+
+.product-list.slide-down {
+    animation: slideDown 0.75s forwards;
+}
+
+.led-list {
+    opacity: 0;
+    max-height: 0;
+    animation: slideUp 0.5s forwards; 
+  }
+  
+  .led-list.slide-down {
+      animation: slideDown 0.75s forwards;
+  }
+
+@keyframes slideDown {
+    from {
+      opacity: 0;
+      max-height: 0;
+    }
+    to {
+      opacity: 1;
+      max-height: 500px; /* Adjust as needed */
+    }
+  }
+  
+  /* Keyframes for sliding up */
+  @keyframes slideUp {
+    from {
+      opacity: 1;
+      max-height: 500px; /* Adjust as needed */
+    }
+    to {
+      opacity: 0;
+      max-height: 0;
+    }
+  }
+
+.product-list .nav-btn-mobile {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+.product-list .nav-btn-mobile:hover {
+  color: white;
+}
+
+.link {
+  color: #f8dca5;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: white;
+}
+
+#led-link{
+  color: #f8dca5;
+  text-decoration: none;
+  cursor: pointer;
+}
+

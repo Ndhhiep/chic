@@ -1,0 +1,65 @@
+[
+    {
+        "src": "/lamp_img/lamp01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "LED-10w",
+        "price": 29.99
+    },
+    {
+        "src": "/lamp_img/lamp02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Halogen-15w",
+        "price": 39.99
+    },
+    {
+        "src": "/lamp_img/lamp03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+    },
+    {
+        "src": "/lamp_img/lamp04.jpg",
+        "name": "LP04",
+        "brand": "brand02",
+        "info": "Fixed-25w",
+        "price": 59.99
+    },
+    {
+        "src": "/lamp_img/lamp05.jpg",
+        "name": "LP05",
+        "brand": "brand03",
+        "info": "Adjustable-30w",
+        "price": 69.99
+    },
+    {
+        "src": "/lamp_img/lamp06.jpg",
+        "name": "LP06",
+        "brand": "brand01",
+        "info": "Smart-35w",
+        "price": 79.99
+    },
+    {
+        "src": "/lamp_img/lamp07.jpg",
+        "name": "LP07",
+        "brand": "brand02",
+        "info": "Vintage-40w",
+        "price": 89.99
+    },
+    {
+        "src": "/lamp_img/lamp08.jpg",
+        "name": "LP08",
+        "brand": "brand03",
+        "info": "Modern-45w",
+        "price": 99.99
+    },
+    {
+        "src": "/lamp_img/lamp09.jpg",
+        "name": "LP09",
+        "brand": "brand01",
+        "info": "Classic-50w",
+        "price": 109.99
+    }
+]

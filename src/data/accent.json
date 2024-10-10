@@ -1,0 +1,65 @@
+[
+    {
+        "src": "/accent_img/accent01.jpg",
+        "name": "LP01",
+        "brand": "brand01",
+        "info": "Adjustable-10w",
+        "price": 29.99
+      },
+      {
+        "src": "/accent_img/accent02.jpg",
+        "name": "LP02",
+        "brand": "brand02",
+        "info": "Fixed-15w",
+        "price": 39.99
+      },
+      {
+        "src": "/accent_img/accent03.jpg",
+        "name": "LP03",
+        "brand": "brand03",
+        "info": "Dimmable-20w",
+        "price": 49.99
+      },
+      {
+        "src": "/accent_img/accent04.jpg",
+        "name": "AC04",
+        "brand": "brand01",
+        "info": "Candle Holder",
+        "price": 14.99
+      },
+      {
+        "src": "/accent_img/accent05.jpg",
+        "name": "AC05",
+        "brand": "brand02",
+        "info": "Picture Frame",
+        "price": 24.99
+      },
+      {
+        "src": "/accent_img/accent06.jpg",
+        "name": "AC06",
+        "brand": "brand03",
+        "info": "Decorative Bowl",
+        "price": 34.99
+      },
+      {
+          "src": "/accent_img/accent07.jpg",
+          "name": "AC07",
+          "brand": "brand01",
+          "info": "Mirror",
+          "price": 39.99
+      },
+      {
+          "src": "/accent_img/accent08.jpg",
+          "name": "AC08",
+          "brand": "brand02",
+          "info": "Clock",
+          "price": 44.99
+      },
+      {
+          "src": "/accent_img/accent09.jpg",
+          "name": "AC09",
+          "brand": "brand03",
+          "info": "Sculpture",
+          "price": 54.99
+      }
+]

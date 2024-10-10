@@ -1,0 +1,30 @@
+{
+    "Ceiling Lights":
+    {
+        "url": "/products/ceiling"
+    },
+    "Wall Lights":
+    {
+        "url": "/products/wall"
+    },
+    "Lamps":
+    {
+        "url": "/products/lamp"
+    },
+    "Outdoor Lights":
+    {
+        "url": "/products/outdoor"
+    },
+    "Fans":
+    {
+        "url": "/products/fan"
+    },
+    "Home Accents":
+    {
+        "url": "/products/accent"
+    },
+    "LED Lights":
+    {
+        "url": "/products/led"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "Products": [
+        {
+            "q": "How diverse is your product range in terms of designs and styles?",
+            "a": "We offer a wide variety of lighting fixtures, from classic to modern styles, to suit any interior design."
+        },
+        {
+            "q": "What types of lighting fixtures do you offer?",
+            "a": "We provide a full range of lighting fixtures such as ceiling lights, pendant lights, wall lights, table lamps, floor lamps, recessed lights, and more."
+        },
+        {
+            "q": "What materials are your lights made of?",
+            "a": "Our lights are made from a variety of materials including iron, copper, glass, fabric, and wood, ensuring high quality and durability."
+        },
+        {
+            "q": "What type of bulbs are compatible with your lights?",
+            "a": "We recommend using energy-efficient LED bulbs for our lights."
+        },
+        {
+            "q": "Do your lights come with a warranty?",
+            "a": "All our products come with a [warranty period] warranty to ensure customer satisfaction."
+        }
+    ],
+    "Pricing": [
+        {
+            "q": "Are your prices the best in the market?",
+            "a": "We are committed to providing quality products at competitive prices. Additionally, we frequently offer attractive promotions."
+        },
+        {
+            "q": "Is there any room for negotiation on the prices?",
+            "a": "We are always open to discussing your pricing needs."
+        }
+    ],
+    "Purchasing and Payment": [
+        {
+            "q": "How can I place an order?",
+            "a": "You can place an order directly at our store, through our website, or by contacting us by phone."
+        },
+        {
+            "q": "What payment methods do you accept?",
+            "a": "We accept cash, bank cards, and bank transfers."
+        },
+        {
+            "q": "How long does delivery take?",
+            "a": "Delivery time depends on the product and delivery address. We will inform you of the specific delivery time when you place your order."
+        }
+    ],
+    "Installation": [
+        {
+            "q": "Do you offer installation services?",
+            "a": "Yes, we provide professional installation services."
+        },
+        {
+            "q": "How much does installation cost?",
+            "a": "The installation cost will be quoted based on the specific project."
+        }
+    ],
+    "Other Questions": [
+        {
+            "q": "How do I clean and maintain my lights?",
+            "a": "We will provide detailed instructions on how to clean and maintain each type of light."
+        },
+        {
+            "q": "Can I return a product if I'm not satisfied?",
+            "a": "We have a [number of days] return policy if the product is defective or not as described."
+        }
+    ]
+}
