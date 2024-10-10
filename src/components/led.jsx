@@ -63,6 +63,8 @@ const Led = () => {
     }, 0);
   };
 
+  const url = process.env.PUBLIC_URL;
+
   return (
     <>
       <Header />
@@ -119,7 +121,7 @@ const Led = () => {
                 : []
               ).map((item, index) => (
                 <div className="products-card" key={index} onClick={()=>handleCardClick(item)}>
-                  <img src={item.src} alt={item.name} />
+                  <img src={`${url}/${item.src}`} alt={item.name} />
                   <div className="infor">
                     <p>{item.name}</p>
                     <p align="right">{item.brand}</p>

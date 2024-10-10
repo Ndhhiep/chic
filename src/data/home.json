@@ -139,21 +139,21 @@
     ],
     "LED Lights": [
       {
-        "src": "led_img/led01.jpg",
+        "src": "led_img/led01.png",
         "name": "LP01",
         "brand": "brand01",
         "info": "Adjustable-10w",
         "price": 29.99
       },
       {
-        "src": "led_img/led02.jpg",
+        "src": "led_img/led02.png",
         "name": "LP02",
         "brand": "brand02",
         "info": "Fixed-15w",
         "price": 39.99
       },
       {
-        "src": "led_img/led03.jpg",
+        "src": "led_img/led03.png",
         "name": "LP03",
         "brand": "brand03",
         "info": "Dimmable-20w",

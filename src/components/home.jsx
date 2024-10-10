@@ -97,7 +97,7 @@ const Home = () => {
                     key={index}
                     onClick={() => handleCardClick(item)}
                   >
-                    <img src={item.src} alt={item.name} />
+                    <img src={`${url}/${item.src}`} alt={item.name} />
                     <div className="infor">
                       <p>{item.name}</p>
                       <p align="right">{item.brand}</p>

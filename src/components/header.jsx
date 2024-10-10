@@ -42,12 +42,14 @@ const Header = () => {
     setShowLedList(!showLedList);
   };
 
+  const url = process.env.PUBLIC_URL;
+
   return (
     <>
       <div className="header">
         <div className="logo-box">
           <Link to={"/"} className="nav-link">
-            <img src="/logo.png" alt="" />
+            <img src={`${url}/logo.png`} alt="" />
           </Link>
         </div>
         <div className="navbar">
