@@ -1,8 +1,8 @@
 {
-  "name": "eproject",
+  "name": "chic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ndhhiep.github.io/eproject",
+  "homepage": "https://Ndhhiep.github.io/chic",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.6.0",

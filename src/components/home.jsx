@@ -52,6 +52,8 @@ const Home = () => {
       }
     }, 0);
   };
+
+  const url = process.env.PUBLIC_URL;
   return (
     <>
       <Header />
@@ -62,21 +64,21 @@ const Home = () => {
           <Carousel.Item interval={3000}>
             <img
               className="d-block w-100 c-img"
-              src="/carousel/carousel01.png"
+              src={`${url}/carousel/carousel01.png`}
               alt="First slide"
             />
           </Carousel.Item>
           <Carousel.Item interval={3000}>
             <img
               className="d-block w-100 c-img"
-              src="/carousel/carousel02.png"
+              src={`${url}/carousel/carousel02.png`}
               alt="Second slide"
             />
           </Carousel.Item>
           <Carousel.Item interval={3000}>
             <img
               className="d-block w-100 c-img"
-              src="/carousel/carousel03.png"
+              src={`${url}/carousel/carousel03.png`}
               alt="Third slide"
             />
           </Carousel.Item>
