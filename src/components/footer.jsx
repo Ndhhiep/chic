@@ -18,9 +18,19 @@ const Footer = () => {
 
     function updateTime() {
       const now = new Date();
-      const timeString = now.toLocaleTimeString();
-      const dateString = now.toLocaleDateString();
-      localTimeElement.textContent = `Date: ${dateString}, Time: ${timeString}`;
+      const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      const options = {
+        timeZone: userTimeZone,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        year: 'numeric',
+        month: 'numeric',
+        day: 'numeric',
+      };
+      const formatter = new Intl.DateTimeFormat([], options);
+      const formattedDate = formatter.format(now);
+      localTimeElement.textContent = `Date & Time: ${formattedDate} - ${userTimeZone}`;
     }
 
  
@@ -32,6 +42,8 @@ const Footer = () => {
   
     return () => clearInterval(intervalId);
   }, []);
+
+  
 
   const url = process.env.PUBLIC_URL;
 

@@ -154,7 +154,7 @@ const Led = () => {
                 &times;
               </span>
               <img
-                src={selectedProduct.src}
+                src={`${url}/${selectedProduct.src}`}
                 alt={selectedProduct.name}
                 className="modal-image"
               />

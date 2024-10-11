@@ -1,7 +1,7 @@
 import "./header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUser, faCaretDown } from "@fortawesome/free-solid-svg-icons";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 import { useState, useEffect } from "react";
 const Header = () => {
@@ -10,6 +10,8 @@ const Header = () => {
   
   const [showProductList, setShowProductList] = useState(false);
   const [showLedList, setShowLedList] = useState(false);
+
+  const location = useLocation();
 
   useEffect(() => {
     const count = window.localStorage.getItem("userCount") || 0;
@@ -54,36 +56,36 @@ const Header = () => {
         </div>
         <div className="navbar">
           <Link to={"/"} className="nav-link">
-            <button className="nav-btn">Home</button>
+          <button className={`nav-btn ${location.pathname === '/' ? 'active' : ''}`}>Home</button>
           </Link>
 
           <Link to={"/products"} className="nav-link">
             <div className="dropdown">
-              <div className="drop-btn">
-                <button className="nav-btn">Products</button>
-                <FontAwesomeIcon icon={faCaretDown} className="drop-icon" />
-              </div>
+            <div className={`drop-btn ${location.pathname.startsWith('/products') ? 'active' : ''}`}>
+              <button className="nav-btn" id="product-btn">Products</button>
+              <FontAwesomeIcon icon={faCaretDown} className="drop-icon" />
+            </div>
               <div className="dropdown-content">
-                <Link className="a" to={"/products/ceiling"}>
+                <Link className={`a ${location.pathname === '/products/ceiling' ? 'active' : ''}`} to={"/products/ceiling"}>
                   Ceiling Lights
                 </Link>
-                <Link className="a" to={"/products/wall"}>
+                <Link className={`a ${location.pathname === '/products/wall' ? 'active' : ''}`} to={"/products/wall"}>
                   Wall Lights
                 </Link>
-                <Link className="a" to={"/products/lamp"}>
+                <Link className={`a ${location.pathname === '/products/lamp' ? 'active' : ''}`} to={"/products/lamp"}>
                   Lamps
                 </Link>
-                <Link className="a" to={"/products/outdoor"}>
+                <Link className={`a ${location.pathname === '/products/outdoor' ? 'active' : ''}`} to={"/products/outdoor"}>
                   Outdoor Lights
                 </Link>
-                <Link className="a" to={"/products/fan"}>
+                <Link className={`a ${location.pathname === '/products/fan' ? 'active' : ''}`} to={"/products/fan"}>
                   Fans
                 </Link>
-                <Link className="a" to={"/products/accent"}>
+                <Link className={`a ${location.pathname === '/products/accent' ? 'active' : ''}`} to={"/products/accent"}>
                   Home Accents
                 </Link>
                 <div className="dropdown-submenu">
-                  <Link className="a" to={"/products/led"}>
+                  <Link className={`a ${location.pathname.startsWith('/products/led')  ? 'active' : ''}`} to={"/products/led"}>
                     LED
                     <FontAwesomeIcon
                       icon={faCaretDown}
@@ -91,13 +93,13 @@ const Header = () => {
                     />
                   </Link>
                   <div className="dropdown-submenu-content">
-                    <Link className="a" to={"/products/led/smart"}>
+                    <Link className={`a ${location.pathname === '/products/led/smart' ? 'active' : ''}`} to={"/products/led/smart"}>
                       Smart Leds
                     </Link>
-                    <Link className="a" to={"/products/led/spot"}>
+                    <Link className={`a ${location.pathname === '/products/led/spot' ? 'active' : ''}`} to={"/products/led/spot"}>
                       Spot Leds
                     </Link>
-                    <Link className="a" to={"/products/led/decor"}>
+                    <Link className={`a ${location.pathname === '/products/led/decor' ? 'active' : ''}`} to={"/products/led/decor"}>
                       Decoration Leds
                     </Link>
                   </div>
@@ -107,23 +109,23 @@ const Header = () => {
           </Link>
 
           <Link to="/about" className="nav-link">
-            <button className="nav-btn">AboutUs</button>
+          <button className={`nav-btn ${location.pathname === '/about' ? 'active' : ''}`}>About</button>
           </Link>
 
           <Link to="/sitemap" className="nav-link">
-            <button className="nav-btn">SiteMap</button>
+          <button className={`nav-btn ${location.pathname === '/sitemap' ? 'active' : ''}`}>SiteMap</button>
           </Link>
 
           <Link to="/gallery" className="nav-link">
-            <button className="nav-btn">Gallery</button>
+          <button className={`nav-btn ${location.pathname === '/gallery' ? 'active' : ''}`}>Gallery</button>
           </Link>
 
           <Link to="/contact" className="nav-link">
-            <button className="nav-btn">Contact</button>
+          <button className={`nav-btn ${location.pathname === '/contact' ? 'active' : ''}`}>Contact</button>
           </Link>
 
           <Link to="/faq" className="nav-link">
-            <button className="nav-btn">FAQ</button>
+          <button className={`nav-btn ${location.pathname === '/faq' ? 'active' : ''}`}>FAQ</button>
           </Link>
 
           <div className="user-box">
