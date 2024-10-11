@@ -6,6 +6,7 @@ import Feedback from "./feedback";
 import './sitemap.css'
 
 const Sitemap = () => {
+    const url = process.env.PUBLIC_URL;
     return ( 
         <>
             <Header/>
@@ -18,7 +19,7 @@ const Sitemap = () => {
                 </div>
                 <hr className="center-hr"/>
                 <div className="sitemap-content">
-                    <img src="/sitemap/sitemap.png" alt="" />
+                    <img src={`${url}/sitemap/sitemap.png`} alt="" />
                 </div>
             </div>
             <Footer/>

@@ -32,12 +32,15 @@ const Footer = () => {
   
     return () => clearInterval(intervalId);
   }, []);
+
+  const url = process.env.PUBLIC_URL;
+
   return (
     <>
       <div className="footer">
         <div className="footer-box">
           <div className="footer-title">
-            <img src="/logo.png" alt="" />
+            <img src={`${url}/logo.png`} alt="" />
           </div>
           <div className="footer-content">
             <div className="footer-content-box">
