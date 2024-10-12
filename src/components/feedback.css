@@ -107,7 +107,7 @@
     margin-bottom: 10px;
 }
 
-input:focus, textarea:focus {
+input:focus {
     outline: none;
     border: none;
     border-bottom: 1px solid black ;

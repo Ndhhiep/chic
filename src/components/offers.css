@@ -100,5 +100,30 @@
     overflow-wrap: break-word;
 }
 
+@media (max-width:1000px){
+    .offer{
+        height: 300px;
+    }
+
+    .offer-box{
+        width: 150px;
+    }
+    .offer-icon-box{
+        width: 80px;
+        height: 80px;
+    }
+
+    .offers-icon{
+        font-size: 20px;
+    }
+
+    .offer-title{
+        font-size: 14px;
+    }
+
+    .offer-content{
+        font-size: 10px;
+    }
+}
 
 

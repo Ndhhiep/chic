@@ -94,12 +94,12 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="footer-box">
-          <div className="footer-title">
+        <div className="footer-box" id="local-time-box">
+          <div className="footer-title" id="local-time-title">
             <strong>Local Time</strong>
           </div>
-          <div className="footer-content">
-            <div className="footer-content-box">
+          <div className="footer-content" >
+            <div className="footer-content-box" id="local-time-content">
               <p id="local-time"></p>
             </div>
           </div>
