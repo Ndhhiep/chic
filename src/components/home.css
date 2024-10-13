@@ -19,7 +19,7 @@
   flex-direction: column;
   margin-top: 50px;
   margin-bottom: 50px;
-  padding: 0 200px;
+  padding: 0 200px; /* Dynamically adjust padding */
   width: 100%;
 }
 
@@ -43,7 +43,7 @@
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  width: 80%;
+  width: 100%;
   height: auto;
   flex-wrap: wrap;
 }
@@ -104,14 +104,128 @@
   color: white;
 }
 
-@media (max-width: 1000px) {
-  .carousel-item {
-    height: 500px;
+@media (max-width:1400px){
+  .products-content{
+    padding: 0 50px;
+  }
+
+  .products-card{
+    width: 250px;
   }
 }
+
+@media (max-width: 1400px) {
+  .carousel-item {
+    height: 600px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .carousel-item {
+    height: 450px;
+  }
+
+  .title{
+    font-size: 30px;
+  }
+  .products-content{
+    padding: 0 100px;
+  }
+
+  .products-card{
+    width: 160px;
+  }
+
+  .products-card img {
+    width: 100%;
+    height: 100px;
+    object-fit: contain;
+  }
+
+  .infor {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+  }
+  
+  .products-detail {
+    font-size: 12px;
+    height: 50px;
+  }
+  
+  .price-box {
+    margin-top: 10px;
+    font-size: 16px;
+    color: red;
+  }
+
+  .price-box .price{
+    margin: 0;
+  }
+  .products-detail {
+    font-size: 12px;
+    height: 30px;
+  }
+
+}
+
+@media (max-width: 800px) {
+  .carousel-item {
+    height: 350px;
+  }
+    .products-content{
+      padding: 0;
+    }
+}
+
 
 @media (max-width:576px) {
     .carousel-item{
         height: 300px;
     }
+
+    .products-card{
+      width: 120px;
+    }
+  
+    .products-card img {
+      width: 100%;
+      height: 80px;
+      object-fit: contain;
+    }
+
+    
+  
+    .infor {
+      margin-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+    }
+    
+    
+    
+    .products-detail p{
+      margin:0;
+    }
+    .price-box {
+      margin-top: 10px;
+      font-size: 10px;
+      color: red;
+    }
+  
+    .price-box .price{
+      margin: 0;
+    }
+    .products-detail {
+      font-size: 8px;
+      height: 10px;
+    }
+
+    .more-btn {
+      font-size: 12px;
+      width: 100px;
+      height: 40px;
+    } 
 }

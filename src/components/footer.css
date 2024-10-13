@@ -104,30 +104,42 @@
 
 @media (max-width:576px) {
     .footer{
-        height: 250px;
+        height: 200px;
     }
     .footer-title{
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .footer-box #local-time-title{
-        padding-bottom: 60px;
+        padding-bottom: 50px;
+    }
+
+    .footer-content{
+        margin:0;
     }
 
     .footer-content-box{
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .footer-content-box p{
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .footer-content-box #local-time{
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .footer-content-box #local-time-content{
         margin: 0;
+    }
+
+    .footer-title img{
+        width: 60px;
+        height: 60px;
+        object-fit: contain;
+        border: 2px solid #f8dca5;
+        border-radius: 50%;
     }
 
 }
