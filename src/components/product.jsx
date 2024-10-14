@@ -162,7 +162,7 @@ const Products = () => {
               
               <p className="modal-text">Detail: <p>{selectedProduct.info}</p></p>
               <p className="modal-text">Material: <p>{selectedProduct.material}</p></p>
-              <p className="modal-text">Type: <p>{selectedProduct.form}</p></p>
+              <p className="modal-text" id="mat">Type: <p>{selectedProduct.form}</p></p>
               <div className="modal-bot">
                 <p className="modal-price"> ${selectedProduct.price}</p>
                 <FontAwesomeIcon icon={faDownload} className="download-icon" onClick={downloadPDF}/>
