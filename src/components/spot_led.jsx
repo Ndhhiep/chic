@@ -79,27 +79,27 @@ const Spot_led = () => {
             </button>
             <button
               className={`filter-btn ${
-                activeBrand === "brand01" ? "click" : ""
+                activeBrand === "Philips" ? "click" : ""
               }`}
-              onClick={() => handleBrandClick("brand01")}
+              onClick={() => handleBrandClick("Philips")}
             >
-              brand01
+              Philips
             </button>
             <button
               className={`filter-btn ${
-                activeBrand === "brand02" ? "click" : ""
+                activeBrand === "Osgram" ? "click" : ""
               }`}
-              onClick={() => handleBrandClick("brand02")}
+              onClick={() => handleBrandClick("Osgram")}
             >
-              brand02
+              Osgram
             </button>
             <button
               className={`filter-btn ${
-                activeBrand === "brand03" ? "click" : ""
+                activeBrand === "Cree" ? "click" : ""
               }`}
-              onClick={() => handleBrandClick("brand03")}
+              onClick={() => handleBrandClick("Cree")}
             >
-              brand03
+              Cree
             </button>
           </div>
         </div>

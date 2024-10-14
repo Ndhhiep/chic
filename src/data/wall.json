@@ -2,64 +2,64 @@
     {
         "src": "/wall_img/wall01.jpg",
         "name": "WL01",
-        "brand": "brand01",
-        "info": "15cm-15w",
+        "brand": "Philips",
+        "info": "15cm-15w, White",
         "price": 45.99
     },
     {
         "src": "/wall_img/wall02.jpg",
         "name": "WL02",
-        "brand": "brand02",
-        "info": "20cm-20w",
+        "brand": "Osgram",
+        "info": "20cm-20w, White",
         "price": 55.99
     },
     {
         "src": "/wall_img/wall03.jpg",
         "name": "WL03",
-        "brand": "brand03",
-        "info": "25cm-25w",
+        "brand": "Cree",
+        "info": "25cm-25w, White",
         "price": 65.99
     },
     {
         "src": "/wall_img/wall04.jpg",
         "name": "WL04",
-        "brand": "brand01",
-        "info": "30cm-30w",
+        "brand": "Philips",
+        "info": "30cm-30w, Black",
         "price": 75.99
     },
     {
         "src": "/wall_img/wall05.jpg",
         "name": "WL05",
-        "brand": "brand02",
-        "info": "35cm-35w",
+        "brand": "Osgram",
+        "info": "35cm-35w, Black",
         "price": 85.99
     },
     {
         "src": "/wall_img/wall06.jpg",
         "name": "WL06",
-        "brand": "brand03",
-        "info": "40cm-40w",
+        "brand": "Cree",
+        "info": "40cm-40w, Black",
         "price": 95.99
     },
     {
         "src": "/wall_img/wall07.jpg",
         "name": "WL07",
-        "brand": "brand01",
-        "info": "45cm-45w",
+        "brand": "Philips",
+        "info": "45cm-45w, Black",
         "price": 105.99
     },
     {
         "src": "/wall_img/wall08.jpg",
         "name": "WL08",
-        "brand": "brand02",
-        "info": "50cm-50w",
+        "brand": "Osgram",
+        "info": "50cm-50w, White",
         "price": 115.99
     },
     {
         "src": "/wall_img/wall09.jpg",
         "name": "WL09",
-        "brand": "brand03",
-        "info": "55cm-55w",
+        "brand": "Cree",
+        "info": "55cm-55w, Black",
         "price": 125.99
     }
 ]

@@ -17,7 +17,7 @@
     padding: 0px 100px calc(50px-(2000px - 100vw)/10);
 }
 .sitemap-content{
-    width: 100%;
+    width: 70%;
     object-fit: contain;
     margin-top: 20px;
 }

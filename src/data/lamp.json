@@ -2,64 +2,64 @@
     {
         "src": "/lamp_img/lamp01.jpg",
         "name": "LP01",
-        "brand": "brand01",
-        "info": "LED-10w",
+        "brand": "Philips",
+        "info": "30cm-10w, Yellow",
         "price": 29.99
     },
     {
         "src": "/lamp_img/lamp02.jpg",
         "name": "LP02",
-        "brand": "brand02",
-        "info": "Halogen-15w",
+        "brand": "Osgram",
+        "info": "32cm-15w, Yellow",
         "price": 39.99
     },
     {
         "src": "/lamp_img/lamp03.jpg",
         "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+        "brand": "Cree",
+        "info": "30cm-20w, White",
         "price": 49.99
     },
     {
         "src": "/lamp_img/lamp04.jpg",
         "name": "LP04",
-        "brand": "brand02",
-        "info": "Fixed-25w",
+        "brand": "Osgram",
+        "info": "30cm-25w, White",
         "price": 59.99
     },
     {
         "src": "/lamp_img/lamp05.jpg",
         "name": "LP05",
-        "brand": "brand03",
-        "info": "Adjustable-30w",
+        "brand": "Cree",
+        "info": "25cm-30w, Pink",
         "price": 69.99
     },
     {
         "src": "/lamp_img/lamp06.jpg",
         "name": "LP06",
-        "brand": "brand01",
-        "info": "Smart-35w",
+        "brand": "Philips",
+        "info": "35cm-35w, White",
         "price": 79.99
     },
     {
         "src": "/lamp_img/lamp07.jpg",
         "name": "LP07",
-        "brand": "brand02",
-        "info": "Vintage-40w",
+        "brand": "Osgram",
+        "info": "2cm-40w, white",
         "price": 89.99
     },
     {
         "src": "/lamp_img/lamp08.jpg",
         "name": "LP08",
-        "brand": "brand03",
-        "info": "Modern-45w",
+        "brand": "Cree",
+        "info": "30cm-45w, White",
         "price": 99.99
     },
     {
         "src": "/lamp_img/lamp09.jpg",
         "name": "LP09",
-        "brand": "brand01",
-        "info": "Classic-50w",
+        "brand": "Philips",
+        "info": "35cm-50w, Black",
         "price": 109.99
     }
 ]

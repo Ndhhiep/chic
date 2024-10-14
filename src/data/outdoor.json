@@ -2,64 +2,64 @@
     {
         "src": "/outdoor_img/outdoor01.jpg",
         "name": "OL01",
-        "brand": "brand01",
-        "info": "LED-10w",
+        "brand": "Philips",
+        "info": "20cm-10w, Black",
         "price": 29.99
     },
     {
         "src": "/outdoor_img/outdoor02.jpg",
         "name": "OL02",
-        "brand": "brand02",
-        "info": "Halogen-15w",
+        "brand": "Osgram",
+        "info": "25cm-15w, Black",
         "price": 39.99
     },
     {
         "src": "/outdoor_img/outdoor03.jpg",
         "name": "OL03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+        "brand": "Cree",
+        "info": "30cm-20w, Black",
         "price": 49.99
     },
     {
         "src": "/outdoor_img/outdoor04.jpg",
         "name": "OL04",
-        "brand": "brand01",
-        "info": "LED-25w",
+        "brand": "Philips",
+        "info": "25cm-25w, Black",
         "price": 109.99
     },
     {
         "src": "/outdoor_img/outdoor05.jpg",
         "name": "OL05",
-        "brand": "brand02",
-        "info": "Rechargeable-30w",
+        "brand": "Osgram",
+        "info": "20cm-30w, Black",
         "price": 119.99
     },
     {
         "src": "/outdoor_img/outdoor06.jpg",
         "name": "OL06",
-        "brand": "brand03",
-        "info": "Smart-35w",
+        "brand": "Cree",
+        "info": "25cm-35w, Black",
         "price": 129.99
     },
     {
         "src": "/outdoor_img/outdoor07.jpg",
         "name": "OL07",
-        "brand": "brand01",
-        "info": "Solar-40w",
+        "brand": "Philips",
+        "info": "30cm-40w, Black",
         "price": 139.99
     },
     {
         "src": "/outdoor_img/outdoor08.jpg",
         "name": "OL08",
-        "brand": "brand02",
-        "info": "Motion Sensor-45w",
+        "brand": "Osgram",
+        "info": " 25cm-45w, Black",
         "price": 149.99
     },
     {
         "src": "/outdoor_img/outdoor09.jpg",
         "name": "OL09",
-        "brand": "brand03",
-        "info": "Waterproof-50w",
+        "brand": "Cree",
+        "info": "20cm-50w, Black",
         "price": 159.99
     }
 ]

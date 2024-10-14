@@ -1,310 +1,310 @@
 {
     "Ceiling Lights": [
       {
-        "src": "ceiling_img/ceiling01.jpg",
+        "src": "/ceiling_img/ceiling01.jpg",
         "name": "CL01",
-        "brand": "brand01",
-        "info": "20cm-20w",
+        "brand": "Philips",
+        "info": "20cm-20w, White",
         "price": 120.99
-      },
-      {
-        "src": "ceiling_img/ceiling02.jpg",
+    },
+    {
+        "src": "/ceiling_img/ceiling02.jpg",
         "name": "CL02",
-        "brand": "brand02",
-        "info": "25cm-25w",
+        "brand": "Osgram",
+        "info": "25cm-25w, Black",
         "price": 130.99
-      },
-      {
-        "src": "ceiling_img/ceiling03.jpg",
+    },
+    {
+        "src": "/ceiling_img/ceiling03.jpg",
         "name": "CL03",
-        "brand": "brand03",
-        "info": "30cm-30w",
+        "brand": "Cree",
+        "info": "30cm-30w, Brown",
         "price": 140.99
-      },
-      {
-        "src": "ceiling_img/ceiling04.jpg",
+    },
+    {
+        "src": "/ceiling_img/ceiling04.jpg",
         "name": "CL04",
-        "brand": "brand01",
-        "info": "35cm-35w",
+        "brand": "Philips",
+        "info": "35cm-35w, Crystal",
         "price": 150.99
-      },
-      {
-        "src": "ceiling_img/ceiling05.jpg",
+    },
+    {
+        "src": "/ceiling_img/ceiling05.jpg",
         "name": "CL05",
-        "brand": "brand02",
-        "info": "40cm-40w",
+        "brand": "Osgram",
+        "info": "40cm-40w, Black",
         "price": 160.99
-      },
-      {
-        "src": "ceiling_img/ceiling06.jpg",
+    },
+    {
+        "src": "/ceiling_img/ceiling06.jpg",
         "name": "CL06",
-        "brand": "brand03",
-        "info": "45cm-45w",
+        "brand": "Cree",
+        "info": "45cm-45w, Black",
         "price": 170.99
-      }
+    }
     ],
     "Wall Lights": [
       {
-        "src": "wall_img/wall01.jpg",
+        "src": "/wall_img/wall01.jpg",
         "name": "WL01",
-        "brand": "brand01",
-        "info": "15cm-15w",
+        "brand": "Philips",
+        "info": "15cm-15w, White",
         "price": 45.99
-      },
-      {
-        "src": "wall_img/wall02.jpg",
+    },
+    {
+        "src": "/wall_img/wall02.jpg",
         "name": "WL02",
-        "brand": "brand02",
-        "info": "20cm-20w",
+        "brand": "Osgram",
+        "info": "20cm-20w, White",
         "price": 55.99
-      },
-      {
-        "src": "wall_img/wall03.jpg",
+    },
+    {
+        "src": "/wall_img/wall03.jpg",
         "name": "WL03",
-        "brand": "brand03",
-        "info": "25cm-25w",
+        "brand": "Cree",
+        "info": "25cm-25w, White",
         "price": 65.99
-      },
-      {
-          "src": "wall_img/wall04.jpg",
-          "name": "WL04",
-          "brand": "brand01",
-          "info": "30cm-30w",
-          "price": 75.99
-      },
-      {
-          "src": "wall_img/wall05.jpg",
-          "name": "WL05",
-          "brand": "brand02",
-          "info": "35cm-35w",
-          "price": 85.99
-      },
-      {
-          "src": "wall_img/wall06.jpg",
-          "name": "WL06",
-          "brand": "brand03",
-          "info": "40cm-40w",
-          "price": 95.99
-      }
+    },
+    {
+        "src": "/wall_img/wall04.jpg",
+        "name": "WL04",
+        "brand": "Philips",
+        "info": "30cm-30w, Black",
+        "price": 75.99
+    },
+    {
+        "src": "/wall_img/wall05.jpg",
+        "name": "WL05",
+        "brand": "Osgram",
+        "info": "35cm-35w, Black",
+        "price": 85.99
+    },
+    {
+        "src": "/wall_img/wall06.jpg",
+        "name": "WL06",
+        "brand": "Cree",
+        "info": "40cm-40w, Black",
+        "price": 95.99
+    }
     ],
     "Lamps": [
       {
-        "src": "lamp_img/lamp01.jpg",
+        "src": "/lamp_img/lamp01.jpg",
         "name": "LP01",
-        "brand": "brand01",
-        "info": "Adjustable-10w",
+        "brand": "Philips",
+        "info": "30cm-10w, Yellow",
         "price": 29.99
-      },
-      {
-        "src": "lamp_img/lamp02.jpg",
+    },
+    {
+        "src": "/lamp_img/lamp02.jpg",
         "name": "LP02",
-        "brand": "brand02",
-        "info": "Fixed-15w",
+        "brand": "Osgram",
+        "info": "32cm-15w, Yellow",
         "price": 39.99
-      },
-      {
-        "src": "lamp_img/lamp03.jpg",
+    },
+    {
+        "src": "/lamp_img/lamp03.jpg",
         "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+        "brand": "Cree",
+        "info": "30cm-20w, White",
         "price": 49.99
-      },
-      {
-          "src": "lamp_img/lamp03.jpg",
-          "name": "LP03",
-          "brand": "brand01",
-          "info": "Adjustable-20w",
-          "price": 49.99
-      },
-      {
-          "src": "lamp_img/lamp04.jpg",
-          "name": "LP04",
-          "brand": "brand02",
-          "info": "Fixed-25w",
-          "price": 59.99
-      },
-      {
-          "src": "lamp_img/lamp05.jpg",
-          "name": "LP05",
-          "brand": "brand03",
-          "info": "Adjustable-30w",
-          "price": 69.99
-      }
+    },
+    {
+        "src": "/lamp_img/lamp04.jpg",
+        "name": "LP04",
+        "brand": "Osgram",
+        "info": "30cm-25w, White",
+        "price": 59.99
+    },
+    {
+        "src": "/lamp_img/lamp05.jpg",
+        "name": "LP05",
+        "brand": "Cree",
+        "info": "25cm-30w, Pink",
+        "price": 69.99
+    },
+    {
+        "src": "/lamp_img/lamp06.jpg",
+        "name": "LP06",
+        "brand": "Philips",
+        "info": "35cm-35w, White",
+        "price": 79.99
+    }
     ],
     "Outdoor Lights": [
       {
-        "src": "outdoor_img/outdoor01.jpg",
-        "name": "LP01",
-        "brand": "brand01",
-        "info": "Adjustable-10w",
+        "src": "/outdoor_img/outdoor01.jpg",
+        "name": "OL01",
+        "brand": "Philips",
+        "info": "20cm-10w, Black",
         "price": 29.99
-      },
-      {
-        "src": "outdoor_img/outdoor02.jpg",
-        "name": "LP02",
-        "brand": "brand02",
-        "info": "Fixed-15w",
+    },
+    {
+        "src": "/outdoor_img/outdoor02.jpg",
+        "name": "OL02",
+        "brand": "Osgram",
+        "info": "25cm-15w, Black",
         "price": 39.99
-      },
-      {
-        "src": "outdoor_img/outdoor03.jpg",
-        "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+    },
+    {
+        "src": "/outdoor_img/outdoor03.jpg",
+        "name": "OL03",
+        "brand": "Cree",
+        "info": "30cm-20w, Black",
         "price": 49.99
-      },
-      {
-        "src": "outdoor_img/outdoor04.jpg",
+    },
+    {
+        "src": "/outdoor_img/outdoor04.jpg",
         "name": "OL04",
-        "brand": "brand01",
-        "info": "LED-25w",
+        "brand": "Philips",
+        "info": "25cm-25w, Black",
         "price": 109.99
-      },
-      {
-        "src": "outdoor_img/outdoor05.jpg",
+    },
+    {
+        "src": "/outdoor_img/outdoor05.jpg",
         "name": "OL05",
-        "brand": "brand02",
-        "info": "Rechargeable-30w",
+        "brand": "Osgram",
+        "info": "20cm-30w, Black",
         "price": 119.99
-      },
-      {
-        "src": "outdoor_img/outdoor06.jpg",
+    },
+    {
+        "src": "/outdoor_img/outdoor06.jpg",
         "name": "OL06",
-        "brand": "brand03",
-        "info": "Smart-35w",
+        "brand": "Cree",
+        "info": "25cm-35w, Black",
         "price": 129.99
-      }
+    }
     ],
     "Fans": [
       {
-        "src": "fan_img/fan01.jpg",
-        "name": "LP01",
-        "brand": "brand01",
-        "info": "Adjustable-10w",
-        "price": 29.99
-      },
-      {
-        "src": "fan_img/fan02.jpg",
-        "name": "LP02",
-        "brand": "brand02",
-        "info": "Fixed-15w",
+        "src": "/fan_img/fan01.jpg",
+        "name": "FN01",
+        "brand": "Philips",
+        "info": "80cm-50w, Brown",
+        "price": 59.99
+    },
+    {
+        "src": "/fan_img/fan02.jpg",
+        "name": "FN02",
+        "brand": "Osgram",
+        "info": "70cm-30w, Black",
         "price": 39.99
-      },
-      {
-        "src": "fan_img/fan03.jpg",
-        "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+    },
+    {
+        "src": "/fan_img/fan03.jpg",
+        "name": "FN03",
+        "brand": "Cree",
+        "info": "90cm-20w, Brown",
         "price": 49.99
-      },
-      {
-        "src": "fan_img/fan04.jpg",
+    },
+    {
+        "src": "/fan_img/fan04.jpg",
         "name": "FN04",
-        "brand": "brand01",
-        "info": "Wall Fan-35w",
+        "brand": "Philips",
+        "info": "50cm-35w, Black",
         "price": 69.99
-      },
-      {
-        "src": "fan_img/fan05.jpg",
+    },
+    {
+        "src": "/fan_img/fan05.jpg",
         "name": "FN05",
-        "brand": "brand02",
-        "info": "Exhaust Fan-25w",
+        "brand": "Osgram",
+        "info": "50cm-25w, Black",
         "price": 39.99
-      },
-      {
-        "src": "fan_img/fan06.jpg",
+    },
+    {
+        "src": "/fan_img/fan06.jpg",
         "name": "FN06",
-        "brand": "brand03",
-        "info": "Tower Fan-45w",
+        "brand": "Cree",
+        "info": "50cm-45w, Black",
         "price": 89.99
-      }
+    }
     ],
     "Home Accents": [
       {
-        "src": "accent_img/accent01.jpg",
-        "name": "LP01",
-        "brand": "brand01",
-        "info": "Adjustable-10w",
+        "src": "/accent_img/accent01.jpg",
+        "name": "AC01",
+        "brand": "Philips",
+        "info": "100cm - Cotton, White",
         "price": 29.99
       },
       {
-        "src": "accent_img/accent02.jpg",
-        "name": "LP02",
-        "brand": "brand02",
-        "info": "Fixed-15w",
+        "src": "/accent_img/accent02.jpg",
+        "name": "AC02",
+        "brand": "Osgram",
+        "info": "80cm - Wood, Brown",
         "price": 39.99
       },
       {
-        "src": "accent_img/accent03.jpg",
-        "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+        "src": "/accent_img/accent03.jpg",
+        "name": "AC03",
+        "brand": "Cree",
+        "info": "75cm - Wood, Black",
         "price": 49.99
       },
       {
-        "src": "accent_img/accent04.jpg",
+        "src": "/accent_img/accent04.jpg",
         "name": "AC04",
-        "brand": "brand01",
-        "info": "Candle Holder",
+        "brand": "Philips",
+        "info": "80cm - Cotton, White",
         "price": 14.99
       },
       {
-        "src": "accent_img/accent05.jpg",
+        "src": "/accent_img/accent05.jpg",
         "name": "AC05",
-        "brand": "brand02",
-        "info": "Picture Frame",
+        "brand": "Osgram",
+        "info": "60cm - Cotton, White",
         "price": 24.99
       },
       {
-        "src": "accent_img/accent06.jpg",
+        "src": "/accent_img/accent06.jpg",
         "name": "AC06",
-        "brand": "brand03",
-        "info": "Decorative Bowl",
+        "brand": "Cree",
+        "info": "80cm - Cotton, Brown",
         "price": 34.99
       }
     ],
     "LED Lights": [
       {
-        "src": "led_img/led01.png",
-        "name": "LP01",
-        "brand": "brand01",
-        "info": "Adjustable-10w",
+        "src": "/led_img/led01.png",
+        "name": "LL01",
+        "brand": "Philips",
+        "info": "30cm-10w, White",
         "price": 29.99
-      },
-      {
-        "src": "led_img/led02.png",
-        "name": "LP02",
-        "brand": "brand02",
-        "info": "Fixed-15w",
+    },
+    {
+        "src": "/led_img/led02.png",
+        "name": "LL02",
+        "brand": "Osgram",
+        "info": "30cm-15w, Black",
         "price": 39.99
-      },
-      {
-        "src": "led_img/led03.png",
-        "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
+    },
+    {
+        "src": "/led_img/led03.png",
+        "name": "LL03",
+        "brand": "Cree",
+        "info": "30cm-20w, White",
         "price": 49.99
-      },
-      {
-        "src": "led_img/smart01.png",
-        "name": "LP03",
-        "brand": "brand01",
-        "info": "Dimmable-20w",
-        "price": 49.99
-      },
-      {
-        "src": "led_img/spot02.png",
-        "name": "LP03",
-        "brand": "brand02",
-        "info": "Dimmable-20w",
-        "price": 49.99
-      },
-      {
-        "src": "led_img/decor03.png",
-        "name": "LP03",
-        "brand": "brand03",
-        "info": "Dimmable-20w",
-        "price": 49.99
-      }
+    },
+    {
+      "src": "/led_img/smart01.png",
+      "name": "SL01",
+      "brand": "Philips",
+      "info": "28cm-10w, Colorful",
+      "price": 59.99
+  },
+  {
+    "src": "/led_img/spot02.png",
+    "name": "SP02",
+    "brand": "Osgram",
+    "info": "35cm-15w, Black",
+    "price": 49.99
+},
+{
+  "src": "/led_img/decor03.png",
+  "name": "DL03",
+  "brand": "Cree",
+  "info": "40cm-20w, Green",
+  "price": 39.99
+}
     ]
   }
