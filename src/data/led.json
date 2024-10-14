@@ -5,21 +5,27 @@
             "name": "LL01",
             "brand": "Philips",
             "info": "30cm-10w, White",
-            "price": 29.99
+            "price": 29.99,
+            "material": "Metal",
+            "form": "Led Light"
         },
         {
             "src": "/led_img/led02.png",
             "name": "LL02",
             "brand": "Osgram",
             "info": "30cm-15w, Black",
-            "price": 39.99
+            "price": 39.99,
+            "material": "Metal",
+            "form": "Led Light"
         },
         {
             "src": "/led_img/led03.png",
             "name": "LL03",
             "brand": "Cree",
             "info": "30cm-20w, White",
-            "price": 49.99
+            "price": 49.99,
+            "material": "Metal",
+            "form": "Led Light"
         }
     ],
     "Smart Leds": [
@@ -28,21 +34,27 @@
             "name": "SL01",
             "brand": "Philips",
             "info": "28cm-10w, Colorful",
-            "price": 59.99
+            "price": 59.99,
+            "material": "Plastic",
+            "form": "Smart Led"
         },
         {
             "src": "/led_img/smart02.png",
             "name": "SL02",
             "brand": "Osgram",
             "info": "25cm-15w, RBG",
-            "price": 69.99
+            "price": 69.99,
+            "material": "Plastic",
+            "form": "Smart Led"
         },
         {
             "src": "/led_img/smart03.png",
             "name": "SL03",
             "brand": "Cree",
             "info": "26cm-20w, White",
-            "price": 79.99
+            "price": 79.99,
+            "material": "Plastic",
+            "form": "Smart Led"
         }
     ],
     "Spot Leds": [
@@ -51,21 +63,27 @@
             "name": "SP01",
             "brand": "Philips",
             "info": "30cm-10w, Black",
-            "price": 39.99
+            "price": 39.99,
+            "material": "Metal",
+            "form": "Spot Led"
         },
         {
             "src": "/led_img/spot02.png",
             "name": "SP02",
             "brand": "Osgram",
             "info": "35cm-15w, Black",
-            "price": 49.99
+            "price": 49.99,
+            "material": "Metal",
+            "form": "Spot Led"
         },
         {
             "src": "/led_img/spot03.png",
             "name": "SP03",
             "brand": "Cree",
             "info": "40cm-20w, Black",
-            "price": 59.99
+            "price": 59.99,
+            "material": "Metal",
+            "form": "Spot Led"
         }
     ],
     "Decoration Leds": [
@@ -74,21 +92,27 @@
             "name": "DL01",
             "brand": "Philips",
             "info": "30cm-10w, Colorful",
-            "price": 19.99
+            "price": 19.99,
+            "material": "Metal",
+            "form": "Decoration Led"
         },
         {
             "src": "/led_img/decor02.png",
             "name": "DL02",
             "brand": "Osgram",
             "info": "35cm-15w, Blue",
-            "price": 29.99
+            "price": 29.99,
+            "material": "Plastic",
+            "form": "Decoration Led"
         },
         {
             "src": "/led_img/decor03.png",
             "name": "DL03",
             "brand": "Cree",
             "info": "40cm-20w, Green",
-            "price": 39.99
+            "price": 39.99,
+            "material": "Plastic",
+            "form": "Decoration Led"
         }
     ]
 }

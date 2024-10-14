@@ -4,41 +4,54 @@
         "name": "DL01",
         "brand": "Philips",
         "info": "30cm-10w, Colorful",
-        "price": 19.99
+        "price": 19.99,
+        "material": "Metal",
+        "form": "Decoration Led"
     },
     {
         "src": "/led_img/decor02.png",
         "name": "DL02",
         "brand": "Osgram",
         "info": "35cm-15w, Blue",
-        "price": 29.99
+        "price": 29.99,
+        "material": "Plastic",
+        "form": "Decoration Led"
     },
     {
         "src": "/led_img/decor03.png",
         "name": "DL03",
         "brand": "Cree",
         "info": "40cm-20w, Green",
-        "price": 39.99
+        "price": 39.99,
+        "material": "Plastic",
+        "form": "Decoration Led"
     },
     {
         "src": "/led_img/decor04.png",
         "name": "DL04",
         "brand": "Philips",
         "info": "28cm-25w, Blue + Purple",
-        "price": 49.99
+        "price": 49.99,
+        "material": "Metal",
+        "form": "Decoration Led"
     },
     {
         "src": "/led_img/decor05.png",
         "name": "DL05",
         "brand": "Osgram",
         "info": "25cm-30w, Colorful",
-        "price": 59.99
+        "price": 59.99,
+        "material": "Plastic",
+        "form": "Decoration Led"
     },
     {
         "src": "/led_img/decor06.png",
         "name": "DL06",
         "brand": "Cree",
         "info": "38cm-35w, Pink",
-        "price": 69.99
+        "price": 69.99,
+        "material": "Plastic",
+        "form": "Decoration Led"
+        
     }
 ]

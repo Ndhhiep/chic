@@ -4,62 +4,80 @@
         "name": "WL01",
         "brand": "Philips",
         "info": "15cm-15w, White",
-        "price": 45.99
+        "price": 45.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall02.jpg",
         "name": "WL02",
         "brand": "Osgram",
         "info": "20cm-20w, White",
-        "price": 55.99
+        "price": 55.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall03.jpg",
         "name": "WL03",
         "brand": "Cree",
         "info": "25cm-25w, White",
-        "price": 65.99
+        "price": 65.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall04.jpg",
         "name": "WL04",
         "brand": "Philips",
         "info": "30cm-30w, Black",
-        "price": 75.99
+        "price": 75.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall05.jpg",
         "name": "WL05",
         "brand": "Osgram",
         "info": "35cm-35w, Black",
-        "price": 85.99
+        "price": 85.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall06.jpg",
         "name": "WL06",
         "brand": "Cree",
         "info": "40cm-40w, Black",
-        "price": 95.99
+        "price": 95.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall07.jpg",
         "name": "WL07",
         "brand": "Philips",
         "info": "45cm-45w, Black",
-        "price": 105.99
+        "price": 105.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall08.jpg",
         "name": "WL08",
         "brand": "Osgram",
-        "info": "50cm-50w, White",
-        "price": 115.99
+        "info": "50cm-50w, Brown",
+        "price": 115.99,
+        "material": "Metal",
+        "form": "Wall"
     },
     {
         "src": "/wall_img/wall09.jpg",
         "name": "WL09",
         "brand": "Cree",
         "info": "55cm-55w, Black",
-        "price": 125.99
+        "price": 125.99,
+        "material": "Metal",
+        "form": "Wall"
     }
 ]

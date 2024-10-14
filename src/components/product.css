@@ -115,9 +115,23 @@ h2{
    text-align: center;
 }
 
+.modal-infor h2{
+    margin-bottom: 50px;
+}
+
 .modal-text{
     font-size: 24px;
     padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-weight: 800;
+    
+}
+
+.modal-text p{
+    margin-left: 150px;
+    font-weight: normal;
 }
 
 .modal-price{

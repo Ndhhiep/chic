@@ -5,21 +5,27 @@
         "name": "CL01",
         "brand": "Philips",
         "info": "20cm-20w, White",
-        "price": 120.99
+        "price": 120.99,
+        "material":"Metal",
+        "form":"Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling02.jpg",
         "name": "CL02",
         "brand": "Osgram",
         "info": "25cm-25w, Black",
-        "price": 130.99
+        "price": 130.99,
+        "material":"Metal",
+        "form":"Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling03.jpg",
         "name": "CL03",
         "brand": "Cree",
         "info": "30cm-30w, Brown",
-        "price": 140.99
+        "price": 140.99,
+        "material":"Metal",
+        "form":"Ceiling"
     }
     ],
     "Wall Lights": [
@@ -28,21 +34,27 @@
         "name": "WL01",
         "brand": "Philips",
         "info": "15cm-15w, White",
-        "price": 45.99
+        "price": 45.99,
+        "material":"Metal",
+        "form":"Wall"
     },
     {
         "src": "/wall_img/wall02.jpg",
         "name": "WL02",
         "brand": "Osgram",
         "info": "20cm-20w, White",
-        "price": 55.99
+        "price": 55.99,
+        "material":"Metal",
+        "form":"Wall"
     },
     {
         "src": "/wall_img/wall03.jpg",
         "name": "WL03",
         "brand": "Cree",
         "info": "25cm-25w, White",
-        "price": 65.99
+        "price": 65.99,
+        "material":"Metal",
+        "form":"Wall"
     }
     ],
     "Lamps": [
@@ -51,21 +63,27 @@
         "name": "LP01",
         "brand": "Philips",
         "info": "30cm-10w, Yellow",
-        "price": 29.99
+        "price": 29.99,
+        "material":"Metal",
+        "form":"Lamp"
     },
     {
         "src": "/lamp_img/lamp02.jpg",
         "name": "LP02",
         "brand": "Osgram",
         "info": "32cm-15w, Yellow",
-        "price": 39.99
+        "price": 39.99,
+        "material":"Metal",
+        "form":"Lamp"
     },
     {
         "src": "/lamp_img/lamp03.jpg",
         "name": "LP03",
         "brand": "Cree",
         "info": "30cm-20w, White",
-        "price": 49.99
+        "price": 49.99,
+        "material":"Metal",
+        "form":"Lamp"
     }
     ],
     "Outdoor Lights": [
@@ -74,21 +92,27 @@
         "name": "OL01",
         "brand": "Philips",
         "info": "20cm-10w, Black",
-        "price": 29.99
+        "price": 29.99,
+        "material":"Metal",
+        "form":"Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor02.jpg",
         "name": "OL02",
         "brand": "Osgram",
         "info": "25cm-15w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material":"Metal",
+        "form":"Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor03.jpg",
         "name": "OL03",
         "brand": "Cree",
         "info": "30cm-20w, Black",
-        "price": 49.99
+        "price": 49.99,
+        "material":"Metal",
+        "form":"Outdoor"
     }
     ],
     "Fans": [
@@ -97,21 +121,27 @@
         "name": "FN01",
         "brand": "Philips",
         "info": "80cm-50w, Brown",
-        "price": 59.99
+        "price": 59.99,
+        "material":"Metal",
+        "form":"Fan"
     },
     {
         "src": "/fan_img/fan02.jpg",
         "name": "FN02",
         "brand": "Osgram",
         "info": "70cm-30w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material":"Metal",
+        "form":"Fan"
     },
     {
         "src": "/fan_img/fan03.jpg",
         "name": "FN03",
         "brand": "Cree",
         "info": "90cm-20w, Brown",
-        "price": 49.99
+        "price": 49.99,
+        "material":"Metal",
+        "form":"Fan"
     }
     ],
     "Home Accents": [
@@ -120,21 +150,27 @@
         "name": "AC01",
         "brand": "Philips",
         "info": "100cm - Cotton, White",
-        "price": 29.99
+        "price": 29.99,
+        "material":"Cotton + Wood",
+        "form":"Accent"
       },
       {
         "src": "/accent_img/accent02.jpg",
         "name": "AC02",
         "brand": "Osgram",
         "info": "80cm - Wood, Brown",
-        "price": 39.99
+        "price": 39.99,
+        "material":"Wood",
+        "form":"Accent"
       },
       {
         "src": "/accent_img/accent03.jpg",
         "name": "AC03",
         "brand": "Cree",
         "info": "75cm - Wood, Black",
-        "price": 49.99
+        "price": 49.99,
+        "material":"Wood",
+        "form":"Accent"
       }
     ],
     "LED Lights": [
@@ -143,21 +179,27 @@
         "name": "LL01",
         "brand": "Philips",
         "info": "30cm-10w, White",
-        "price": 29.99
+        "price": 29.99,
+        "material":"Metal",
+        "form":"LED"
     },
     {
         "src": "/led_img/led02.png",
         "name": "LL02",
         "brand": "Osgram",
         "info": "30cm-15w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material":"Metal",
+        "form":"LED"
     },
     {
         "src": "/led_img/led03.png",
         "name": "LL03",
         "brand": "Cree",
         "info": "30cm-20w, White",
-        "price": 49.99
+        "price": 49.99,
+        "material":"Metal",
+        "form":"LED"
     }
     ]
   }

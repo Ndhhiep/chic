@@ -129,24 +129,23 @@ const Home = () => {
                 &times;
               </span>
               <img
-                src={`${url}/${selectedProduct.src}`}
+                src={selectedProduct.src}
                 alt={selectedProduct.name}
                 className="modal-image"
               />
               <div className="modal-infor">
-                <h2>{selectedProduct.name}</h2>
-                <p className="modal-text">Brand: {selectedProduct.brand}</p>
+              <h2>{selectedProduct.name}</h2>
+              <p className="modal-text">Brand: <p>{selectedProduct.brand}</p></p>
               </div>
-
-              <p className="modal-text">Detail: {selectedProduct.info}</p>
+              
+              <p className="modal-text">Detail: <p>{selectedProduct.info}</p></p>
+              <p className="modal-text">Material: <p>{selectedProduct.material}</p></p>
+              <p className="modal-text">Type: <p>{selectedProduct.form}</p></p>
               <div className="modal-bot">
                 <p className="modal-price"> ${selectedProduct.price}</p>
-                <FontAwesomeIcon
-                  icon={faDownload}
-                  className="download-icon"
-                  onClick={downloadPDF}
-                />
+                <FontAwesomeIcon icon={faDownload} className="download-icon" onClick={downloadPDF}/>
               </div>
+              
             </div>
           </div>
         )}

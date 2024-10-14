@@ -1,65 +1,83 @@
 [
-    {
-        "src": "/accent_img/accent01.jpg",
-        "name": "AC01",
-        "brand": "Philips",
-        "info": "100cm - Cotton, White",
-        "price": 29.99
-      },
-      {
-        "src": "/accent_img/accent02.jpg",
-        "name": "AC02",
-        "brand": "Osgram",
-        "info": "80cm - Wood, Brown",
-        "price": 39.99
-      },
-      {
-        "src": "/accent_img/accent03.jpg",
-        "name": "AC03",
-        "brand": "Cree",
-        "info": "75cm - Wood, Black",
-        "price": 49.99
-      },
-      {
-        "src": "/accent_img/accent04.jpg",
-        "name": "AC04",
-        "brand": "Philips",
-        "info": "80cm - Cotton, White",
-        "price": 14.99
-      },
-      {
-        "src": "/accent_img/accent05.jpg",
-        "name": "AC05",
-        "brand": "Osgram",
-        "info": "60cm - Cotton, White",
-        "price": 24.99
-      },
-      {
-        "src": "/accent_img/accent06.jpg",
-        "name": "AC06",
-        "brand": "Cree",
-        "info": "80cm - Cotton, Brown",
-        "price": 34.99
-      },
-      {
-          "src": "/accent_img/accent07.jpg",
-          "name": "AC07",
-          "brand": "Philips",
-          "info": "60cm - Cotton, Green",
-          "price": 39.99
-      },
-      {
-          "src": "/accent_img/accent08.jpg",
-          "name": "AC08",
-          "brand": "Osgram",
-          "info": "90cm - Cotton, White",
-          "price": 44.99
-      },
-      {
-          "src": "/accent_img/accent09.jpg",
-          "name": "AC09",
-          "brand": "Cree",
-          "info": "100cm - Cotton, Brown",
-          "price": 54.99
-      }
+  {
+      "src": "/accent_img/accent01.jpg",
+      "name": "AC01",
+      "brand": "Philips",
+      "info": "100cm, White",
+      "price": 29.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent02.jpg",
+      "name": "AC02",
+      "brand": "Osgram",
+      "info": "80cm, Brown",
+      "price": 39.99,
+      "material": "Wood",
+      "form": "Bookshell"
+  },
+  {
+      "src": "/accent_img/accent03.jpg",
+      "name": "AC03",
+      "brand": "Cree",
+      "info": "75cm, Black",
+      "price": 49.99,
+      "material": "Wood",
+      "form": "Table"
+  },
+  {
+      "src": "/accent_img/accent04.jpg",
+      "name": "AC04",
+      "brand": "Philips",
+      "info": "80cm, White",
+      "price": 14.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent05.jpg",
+      "name": "AC05",
+      "brand": "Osgram",
+      "info": "60cm, White",
+      "price": 24.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent06.jpg",
+      "name": "AC06",
+      "brand": "Cree",
+      "info": "80cm, Brown",
+      "price": 34.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent07.jpg",
+      "name": "AC07",
+      "brand": "Philips",
+      "info": "60cm, Green",
+      "price": 39.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent08.jpg",
+      "name": "AC08",
+      "brand": "Osgram",
+      "info": "90cm, White",
+      "price": 44.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  },
+  {
+      "src": "/accent_img/accent09.jpg",
+      "name": "AC09",
+      "brand": "Cree",
+      "info": "100cm, Brown",
+      "price": 54.99,
+      "material": "Cotton",
+      "form": "Armchair"
+  }
 ]

@@ -4,62 +4,80 @@
         "name": "LP01",
         "brand": "Philips",
         "info": "30cm-10w, Yellow",
-        "price": 29.99
+        "price": 29.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp02.jpg",
         "name": "LP02",
         "brand": "Osgram",
         "info": "32cm-15w, Yellow",
-        "price": 39.99
+        "price": 39.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp03.jpg",
         "name": "LP03",
         "brand": "Cree",
         "info": "30cm-20w, White",
-        "price": 49.99
+        "price": 49.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp04.jpg",
         "name": "LP04",
         "brand": "Osgram",
         "info": "30cm-25w, White",
-        "price": 59.99
+        "price": 59.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp05.jpg",
         "name": "LP05",
         "brand": "Cree",
         "info": "25cm-30w, Pink",
-        "price": 69.99
+        "price": 69.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp06.jpg",
         "name": "LP06",
         "brand": "Philips",
-        "info": "35cm-35w, White",
-        "price": 79.99
+        "info": "28cm-35w, Blue",
+        "price": 79.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp07.jpg",
         "name": "LP07",
         "brand": "Osgram",
-        "info": "2cm-40w, white",
-        "price": 89.99
+        "info": "30cm-40w, Green",
+        "price": 89.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp08.jpg",
         "name": "LP08",
         "brand": "Cree",
-        "info": "30cm-45w, White",
-        "price": 99.99
+        "info": "32cm-45w, Red",
+        "price": 99.99,
+        "material": "Metal",
+        "form": "Lamp"
     },
     {
         "src": "/lamp_img/lamp09.jpg",
         "name": "LP09",
         "brand": "Philips",
-        "info": "35cm-50w, Black",
-        "price": 109.99
+        "info": "34cm-50w, Purple",
+        "price": 109.99,
+        "material": "Metal",
+        "form": "Lamp"
     }
 ]

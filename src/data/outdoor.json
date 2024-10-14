@@ -4,62 +4,80 @@
         "name": "OL01",
         "brand": "Philips",
         "info": "20cm-10w, Black",
-        "price": 29.99
+        "price": 29.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor02.jpg",
         "name": "OL02",
         "brand": "Osgram",
         "info": "25cm-15w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor03.jpg",
         "name": "OL03",
         "brand": "Cree",
         "info": "30cm-20w, Black",
-        "price": 49.99
+        "price": 49.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor04.jpg",
         "name": "OL04",
         "brand": "Philips",
         "info": "25cm-25w, Black",
-        "price": 109.99
+        "price": 109.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor05.jpg",
         "name": "OL05",
         "brand": "Osgram",
         "info": "20cm-30w, Black",
-        "price": 119.99
+        "price": 59.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor06.jpg",
         "name": "OL06",
         "brand": "Cree",
-        "info": "25cm-35w, Black",
-        "price": 129.99
+        "info": "35cm-35w, Black",
+        "price": 69.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor07.jpg",
         "name": "OL07",
         "brand": "Philips",
-        "info": "30cm-40w, Black",
-        "price": 139.99
+        "info": "40cm-40w, Black",
+        "price": 79.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor08.jpg",
         "name": "OL08",
         "brand": "Osgram",
-        "info": " 25cm-45w, Black",
-        "price": 149.99
+        "info": "45cm-45w, Black",
+        "price": 89.99,
+        "material": "Metal",
+        "form": "Outdoor"
     },
     {
         "src": "/outdoor_img/outdoor09.jpg",
         "name": "OL09",
         "brand": "Cree",
-        "info": "20cm-50w, Black",
-        "price": 159.99
+        "info": "50cm-50w, Black",
+        "price": 99.99,
+        "material": "Metal",
+        "form": "Outdoor"
     }
 ]

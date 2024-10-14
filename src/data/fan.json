@@ -4,62 +4,80 @@
         "name": "FN01",
         "brand": "Philips",
         "info": "80cm-50w, Brown",
-        "price": 59.99
+        "price": 59.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan02.jpg",
         "name": "FN02",
         "brand": "Osgram",
         "info": "70cm-30w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan03.jpg",
         "name": "FN03",
         "brand": "Cree",
         "info": "90cm-20w, Brown",
-        "price": 49.99
+        "price": 49.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan04.jpg",
         "name": "FN04",
         "brand": "Philips",
         "info": "50cm-35w, Black",
-        "price": 69.99
+        "price": 69.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan05.jpg",
         "name": "FN05",
         "brand": "Osgram",
         "info": "50cm-25w, Black",
-        "price": 39.99
+        "price": 39.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan06.jpg",
         "name": "FN06",
         "brand": "Cree",
         "info": "50cm-45w, Black",
-        "price": 89.99
+        "price": 89.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan07.jpg",
         "name": "FN07",
         "brand": "Philips",
         "info": "50cm-55w, Black",
-        "price": 79.99
+        "price": 79.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan08.jpg",
         "name": "FN08",
         "brand": "Osgram",
         "info": "50cm-40w, White",
-        "price": 49.99
+        "price": 49.99,
+        "material": "Metal",
+        "form": "Fan"
     },
     {
         "src": "/fan_img/fan09.jpg",
         "name": "FN09",
         "brand": "Cree",
         "info": "50cm-60w, White",
-        "price": 99.99
+        "price": 99.99,
+        "material": "Metal",
+        "form": "Fan"
     }
 ]

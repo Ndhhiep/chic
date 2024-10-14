@@ -4,41 +4,53 @@
         "name": "SL01",
         "brand": "Philips",
         "info": "28cm-10w, Colorful",
-        "price": 59.99
+        "price": 59.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     },
     {
         "src": "/led_img/smart02.png",
         "name": "SL02",
         "brand": "Osgram",
         "info": "25cm-15w, RBG",
-        "price": 69.99
+        "price": 69.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     },
     {
         "src": "/led_img/smart03.png",
         "name": "SL03",
         "brand": "Cree",
         "info": "26cm-20w, White",
-        "price": 79.99
+        "price": 79.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     },
     {
         "src": "/led_img/smart04.png",
         "name": "SL04",
         "brand": "Philips",
         "info": "23cm-25w, Black",
-        "price": 89.99
+        "price": 89.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     },
     {
         "src": "/led_img/smart05.png",
         "name": "SL05",
         "brand": "Osgram",
         "info": "24cm-30w, Coloful",
-        "price": 99.99
+        "price": 99.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     },
     {
         "src": "/led_img/smart06.png",
         "name": "SL06",
         "brand": "Cree",
         "info": "21cm-35w, White",
-        "price": 109.99
+        "price": 109.99,
+        "material": "Plastic",
+        "form": "Smart Led"
     }
 ]

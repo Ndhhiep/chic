@@ -4,63 +4,80 @@
         "name": "CL01",
         "brand": "Philips",
         "info": "20cm-20w, White",
-        "price": 120.99
+        "price": 120.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling02.jpg",
         "name": "CL02",
         "brand": "Osgram",
         "info": "25cm-25w, Black",
-        "price": 130.99
+        "price": 130.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling03.jpg",
         "name": "CL03",
         "brand": "Cree",
         "info": "30cm-30w, Brown",
-        "price": 140.99
+        "price": 140.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling04.jpg",
         "name": "CL04",
         "brand": "Philips",
         "info": "35cm-35w, Crystal",
-        "price": 150.99
+        "price": 150.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling05.jpg",
         "name": "CL05",
         "brand": "Osgram",
         "info": "40cm-40w, Black",
-        "price": 160.99
+        "price": 160.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling06.jpg",
         "name": "CL06",
         "brand": "Cree",
         "info": "45cm-45w, Black",
-        "price": 170.99
+        "price": 170.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling07.jpg",
         "name": "CL07",
         "brand": "Philips",
         "info": "50cm-50w, Black",
-        "price": 180.99
+        "price": 180.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling08.jpg",
         "name": "CL08",
         "brand": "Osgram",
         "info": "55cm-55w, Brown",
-        "price": 190.99
+        "price": 190.99,
+        "material": "Metal",
+        "form": "Ceiling"
     },
     {
         "src": "/ceiling_img/ceiling09.jpg",
         "name": "CL09",
         "brand": "Cree",
         "info": "55cm-55w, Black",
-        "price": 190.99
+        "price": 190.99,
+        "material": "Metal",
+        "form": "Ceiling"
     }
-
 ]
