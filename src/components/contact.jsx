@@ -39,7 +39,7 @@ const Contact = () => {
             <div className="channels-content">
               <div className="channels-content-row">
                 <div className="icon-box">
-                  <FontAwesomeIcon icon={faFacebook} />
+                  <FontAwesomeIcon icon={faFacebook} className="channel-icon"/>
                 </div>
 
                 <p>Chic Lighting & Design</p>
@@ -47,14 +47,14 @@ const Contact = () => {
 
               <div className="channels-content-row">
                 <div className="icon-box">
-                  <FontAwesomeIcon icon={faInstagram} />
+                  <FontAwesomeIcon icon={faInstagram} className="channel-icon"/>
                 </div>
                 <p>Chic Lighting & Design</p>
               </div>
 
               <div className="channels-content-row">
                 <div className="icon-box">
-                  <FontAwesomeIcon icon={faYoutube} />
+                  <FontAwesomeIcon icon={faYoutube} className="channel-icon"/>
                 </div>
                 <p>Chic Lighting & Design</p>
               </div>
@@ -72,7 +72,7 @@ const Contact = () => {
             <div className="channels-content">
               <div className="channels-content-row">
                 <div className="icon-box">
-                  <FontAwesomeIcon icon={faPhone} />
+                  <FontAwesomeIcon icon={faPhone} className="channel-icon"/>
                 </div>
 
                 <p>Chic Lighting & Design</p>
@@ -80,7 +80,7 @@ const Contact = () => {
 
               <div className="channels-content-row">
                 <div className="icon-box">
-                  <FontAwesomeIcon icon={faSolidEnvelope} />
+                  <FontAwesomeIcon icon={faSolidEnvelope} className="channel-icon"/>
                 </div>
 
                 <p>Chic Lighting & Design</p>
