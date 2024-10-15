@@ -60,19 +60,26 @@ const About = () => {
             <div className="img-m-box">
                 <img src={`${url}/member_img/mem.jpg`} />
             </div>
+            <div className="mem-n-box">
             <strong className="mem-n">Nguyen Do Hoang Hiep</strong>
+            </div>
           </div>
           <div className="products-card">
             <div className="img-m-box">
             <img src={`${url}/member_img/mem.jpg`} />
             </div>
+            <div className="mem-n-box">
             <strong className="mem-n">Nguyen Khai Nguyen</strong>
+            </div>
+            
           </div>
           <div className="products-card">
             <div className="img-m-box">
             <img src={`${url}/member_img/mem.jpg`} />
             </div>
+            <div className="mem-n-box">
             <strong className="mem-n">Nguyen Thanh Nam</strong>
+            </div>
           </div>
       </div>
 
