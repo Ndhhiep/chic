@@ -109,7 +109,7 @@ const Header = () => {
           </Link>
 
           <Link to="/about" className="nav-link">
-          <button className={`nav-btn ${location.pathname === '/about' ? 'active' : ''}`}>About</button>
+          <button className={`nav-btn ${location.pathname === '/about' ? 'active' : ''}`}>AboutUs</button>
           </Link>
 
           <Link to="/sitemap" className="nav-link">
@@ -142,7 +142,7 @@ const Header = () => {
 
         <Link to='/'>
         <div className="logo-box-mobile">
-          <img src="/logo.png" alt="" />
+          <img src={`${url}/logo.png`} alt="" />
         </div>
         </Link>
         
@@ -163,7 +163,7 @@ const Header = () => {
 
               <Link to={'/'}>
               <div className="logo-box-mobile">
-                <img src="/logo.png" alt="" />
+                <img src={`${url}/logo.png`} alt="" />
               </div>
               </Link>
               

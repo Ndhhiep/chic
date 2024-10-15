@@ -162,6 +162,7 @@
 .user-box p {
   margin: 0 0 20px 5px;
   font-size: 22px;
+  user-select: none;
 }
 
 .LED-opt {

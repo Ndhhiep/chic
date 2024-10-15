@@ -7,6 +7,10 @@
   height: 700px;
 }
 
+.carousel-item{
+  object-fit: cover;
+}
+
 .carousel-item img {
   max-height: 100%;
   max-width: 100%;
