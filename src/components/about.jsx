@@ -2,6 +2,8 @@ import Header from "./header";
 import Footer from "./footer";
 import Feedback from "./feedback";
 import Download from "./download";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faUser } from "@fortawesome/free-solid-svg-icons";
 import "./about.css";
 const About = () => {
   const url = process.env.PUBLIC_URL;
@@ -47,6 +49,31 @@ const About = () => {
             </p>
           </div>
         </div>
+      </div>
+
+      <div className="about-title">
+        <h1>Our Team</h1>
+      </div>
+
+      <div className='member-card'>
+          <div className="products-card">
+            <div className="img-m-box">
+                <img src={`${url}/member_img/mem.jpg`} />
+            </div>
+            <strong className="mem-n">Nguyen Do Hoang Hiep</strong>
+          </div>
+          <div className="products-card">
+            <div className="img-m-box">
+            <img src={`${url}/member_img/mem.jpg`} />
+            </div>
+            <strong className="mem-n">Nguyen Khai Nguyen</strong>
+          </div>
+          <div className="products-card">
+            <div className="img-m-box">
+            <img src={`${url}/member_img/mem.jpg`} />
+            </div>
+            <strong className="mem-n">Nguyen Thanh Nam</strong>
+          </div>
       </div>
 
       <div className="about-title">
