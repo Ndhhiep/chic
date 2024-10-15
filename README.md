@@ -1,4 +1,4 @@
-eProject - Group 4
+__eProject - Group 4__
 
 Batch no.: T1.2406.M1
 
@@ -16,7 +16,7 @@ Project title: Chic Lighting & Design
       
       Nguyen Thanh Nam     - Student1573726
       
-Our project demonstration video:
+__Our project demonstration video:__
 
 Run & Installation
 
@@ -25,26 +25,59 @@ To view this website, simply click on the following link:
 
 To run this project locally, follow these steps:
 
-Clone the repository:
+__Clone the repository:__
 
       git clone hhttps://github.com/Ndhhiep/chic.git
 
-Navigate to the project directory:
+__Navigate to the project directory:__
 
       cd chic
 
-Install dependencies:
+__Install dependencies:__
 
       npm install
 
-Start the development server:
+__Start the development server:__
 
       npm start
 
-Open the app in your browser by visiting:
+__Open the app in your browser by visiting:__
 
       http://localhost:3000/
 
+__Test data list:__
+
+      accent.json
+
+      ceiling.json
+
+      decor.json
+
+      fan.json
+
+      faq.json
+
+      gallery.json
+
+      home.json
+
+      lamp.json
+
+      led_site.json
+
+      led.json
+
+      outdoor.json
+
+      product.json
+
+      site.json
+
+      smart.json
+
+      spot.json
+
+      wall.json
 
 Acknowledgments
 
