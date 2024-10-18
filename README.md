@@ -25,6 +25,7 @@ To view simple tutorial of this website, simply click on the following link:
 
 To run this website, simply click on the following link:
       https://ndhhiep.github.io/chic/
+      
 To run this project locally, follow these steps:
 
 __Clone the repository:__
