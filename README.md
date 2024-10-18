@@ -20,9 +20,11 @@ __Our project demonstration video:__
 
 Run & Installation
 
-To view this website, simply click on the following link:
+To view simple tutorial of this website, simply click on the following link:
       https://www.youtube.com/watch?v=M-y5c7ydd8c
 
+To run this website, simply click on the following link:
+      https://ndhhiep.github.io/chic/
 To run this project locally, follow these steps:
 
 __Clone the repository:__
