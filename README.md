@@ -15,6 +15,10 @@ Project title: Chic Lighting & Design
       Nguyen Khai Nguyen   - Student1575541
       
       Nguyen Thanh Nam     - Student1573726
+
+__Document folder__
+
+      path: chic/doc
       
 __Our project demonstration video:__
 
