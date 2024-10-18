@@ -49,37 +49,37 @@ __Open the app in your browser by visiting:__
 
 __Test data list:__
 
-      accent.json
+      src/data/accent.json
 
-      ceiling.json
+      src/data/ceiling.json
 
-      decor.json
+      src/data/decor.json
 
-      fan.json
+      src/data/fan.json
 
-      faq.json
+      src/data/faq.json
 
-      gallery.json
+      src/data/gallery.json
 
-      home.json
+      src/data/home.json
 
-      lamp.json
+      src/data/lamp.json
 
-      led_site.json
+      src/data/led_site.json
 
-      led.json
+      src/data/led.json
 
-      outdoor.json
+      src/data/outdoor.json
 
-      product.json
+      src/data/product.json
 
-      site.json
+      src/data/site.json
 
-      smart.json
+      src/data/smart.json
 
-      spot.json
+      src/data/spot.json
 
-      wall.json
+      src/data/wall.json
 
 Acknowledgments
 
