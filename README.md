@@ -16,7 +16,7 @@ Project title: Chic Lighting & Design
       
       Nguyen Thanh Nam     - Student1573726
 
-__Document folder__
+__Document folder__:
 
 To view document, simply click on the following link: https://github.com/Ndhhiep/chic/tree/main/doc
       
