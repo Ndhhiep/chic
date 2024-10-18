@@ -18,7 +18,7 @@ Project title: Chic Lighting & Design
 
 __Document folder__
 
-      path: chic/doc
+      To view document, simply click on the following link: https://github.com/Ndhhiep/chic/tree/main/doc
       
 __Our project demonstration video:__
 
